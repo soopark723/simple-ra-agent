@@ -1,4 +1,4 @@
-# agent-1
+# Simple Research Assistant Agent
 
 A code-executing AI agent with a chat UI, built on [smolagents](https://github.com/huggingface/smolagents) and [Gradio](https://www.gradio.app/). The agent reasons in a Thought → Code → Observation loop, writing and running actual Python at each step to work toward an answer.
 
