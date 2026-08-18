@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.gradio/
+.env
+notes*
+unit-1-completion-certificate*
