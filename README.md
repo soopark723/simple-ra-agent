@@ -47,7 +47,7 @@ This starts a local Gradio server (usually at `http://127.0.0.1:7860`) and also 
 ## Project structure
 
 ```
-agent-1/
+simple-ra-agent/
 ├── app.py              # Entry point — builds the agent and launches the UI
 ├── Gradio_UI.py         # Chat interface wrapper around the agent
 ├── model.py             # Alternate local-model config (Ollama, unused by default)
