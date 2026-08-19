@@ -6,10 +6,10 @@ Based on the starter template from Hugging Face's [Agents Course](https://huggin
 
 ## What it can do
 
-- **Search the web** — looks things up via DuckDuckGo
-- **Read webpages** — visits a URL and pulls out its content as readable text
-- **Check the time** — reports the current time in any timezone
-- **Reason step by step** — plans, writes code, checks the result, and adjusts before giving a final answer
+- **Search the web** -- looks things up via DuckDuckGo
+- **Read webpages** -- visits a URL and pulls out its content as readable text
+- **Check the time** -- reports the current time in any timezone
+- **Reason step by step** -- plans, writes code, checks the result, and adjusts before giving a final answer
 
 The model backing it is `Qwen/Qwen2.5-Coder-32B-Instruct`, served through Hugging Face's Inference API.
 
